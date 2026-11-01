@@ -1,0 +1,18 @@
+TEXTO PARA O ÁUDIO (gere cada bloco separado e coloque no segundo indicado)
+
+Bloco 1 (entra em 0:00,5, precisa durar no máximo 4,8 s)
+Seu site é um cartão de visita ou um vendedor?
+
+Bloco 2 (entra em 0:05,9, no máximo 5,0 s)
+Cartão de visita só fica parado esperando alguém ligar.
+
+Bloco 3 (entra em 0:11,5, no máximo 6,8 s)
+Um site de verdade explica, convence e leva o cliente pro seu WhatsApp.
+
+Bloco 4 (entra em 0:18,9, no máximo 5,0 s)
+E faz isso de dia, de noite e de madrugada.
+
+Bloco 5 (entra em 0:24,5, no máximo 8,5 s)
+Quer um vendedor assim? Me chama no direct e conta o ramo da sua empresa.
+
+Se algum bloco passar do limite, aumente a velocidade da voz em 5 a 10% só nele.
